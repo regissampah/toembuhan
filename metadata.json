@@ -1,0 +1,7 @@
+{
+  "name": "Plant Identifier AI",
+  "description": "An AI-powered application to identify plant species from images. Users can either upload a photo or use their device's camera to get detailed information about any plant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

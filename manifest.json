@@ -1,0 +1,17 @@
+{
+  "short_name": "Toembuhan .Ai",
+  "name": "Toembuhan .Ai - Plant Identifier",
+  "description": "An AI-powered application to identify plant species from images.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2B5A36",
+  "background_color": "#fafffa"
+}
