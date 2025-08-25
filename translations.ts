@@ -72,12 +72,12 @@ export const translations = {
     identifyPlant: "Identifikasi Tanaman",
     identifying: "Mengidentifikasi...",
     loadingMessages: [
-      "Sedang membaca referensi botani lama..."
-      "Mencocokkan data dengan database daun..."
-      "Menyiapkan alat identifikasi tanaman..."
-      "Meminta petunjuk dari alam..."
-      "Menganalisis pola klorofil..."
-      "Menampilkan hasil terbaik untuk Anda..."
+      "Sedang membaca referensi botani lama...",
+      "Mencocokkan data dengan database daun...",
+      "Menyiapkan alat identifikasi tanaman...",
+      "Meminta petunjuk dari alam...",
+      "Menganalisis pola klorofil...",
+      "Menampilkan hasil terbaik untuk Anda...",
     ],
     errorTitle: "Oops! Terjadi kesalahan.",
     identificationError: "Kami tidak dapat mengidentifikasi tanaman dalam gambar. Silakan coba yang lain.",
